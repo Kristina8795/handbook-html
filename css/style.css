@@ -1,0 +1,46 @@
+body {
+    color: #2a264a;
+    background-color: aliceblue;
+
+    font-family: "Roborto", sans-serif;
+    font-size: 20px;
+    margin:0;
+}
+
+head{
+    color: white;
+    background-color: darkblue;
+    margin: 10px;
+    padding: 100px;
+    border-color: #749ed3;
+    border-style: solid;
+    border-radius: 64px;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+h2{
+    color: black;
+}
+
+b, i, del{
+    background-color: aquamarine;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: brown
+}
+
+#structure {
+    background-color: bisque;
+}
+
+.site-menu li {
+    padding: 20px;
+}
